@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning vue3 , ts , vite , antdv and java spring series , so as you see, i'm learning every now.
+- 🌱 I’m currently learning vue3 , ts , vite , antdv and java spring series , so as you see, i'm learning every thing right now.
 - 📫 email :enncyemail@qq.com
 ****
 I also have some open source framework:
