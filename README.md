@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning vue3 , ts , vite , antdv and java spring series , so as you see, i'm learning every thing right now.
+- 🌱 now i'm learning `vue3` , `ts`  , and some `java` `spring` series framework
 - 📫 email :enncyemail@qq.com
 ****
 I also have some open source framework:
@@ -7,3 +7,5 @@ I also have some open source framework:
 - [pioneerjs](https://github.com/enncy/pioneerjs) : a puppeteer framework
 
 It would be my pleasure if I could help you, thanks😀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enncy)](https://github.com/anuraghazra/github-readme-stats)
