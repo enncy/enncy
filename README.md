@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 now i'm learning `vue3` , `ts`  , and some `java` `spring` series framework
+- 🌱 now i'm learning `vue3` , `ts` , `ant design vue`  , and some `java` `spring` series framework
 - 📫 email :enncyemail@qq.com
 ****
 I also have some open source framework:
@@ -8,8 +8,8 @@ I also have some open source framework:
 
 It would be my pleasure if I could help you, thanks😀
 
-My Stats     
+### Stats     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enncy)](https://github.com/anuraghazra/github-readme-stats)
 
-My Language     
+### Language     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enncy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
