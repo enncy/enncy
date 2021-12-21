@@ -8,4 +8,8 @@ I also have some open source framework:
 
 It would be my pleasure if I could help you, thanks😀
 
+My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enncy)](https://github.com/anuraghazra/github-readme-stats)
+
+My Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enncy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
