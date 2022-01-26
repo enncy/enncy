@@ -17,4 +17,4 @@ It would be my pleasure if I could help you, thanks😀
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enncy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Language     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enncy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enncy&layout=compact&hide=less,css,html)](https://github.com/anuraghazra/github-readme-stats)
