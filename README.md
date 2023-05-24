@@ -1,9 +1,7 @@
 ### Hi there 👋
-- 🌱 now i'm learning `vue3` , `ts` , `ant design vue`  , and some `java` `spring` series framework
+- 🌱 全栈小白，网页自动化小白，喜欢搞点脚本和逆向的小工具。
 - 📫 email :enncyemail@qq.com
 ****
-
-It would be my pleasure if I could help you, thanks😀
 
 赞助我  Sponsor : [https://afdian.net/@enncy](https://afdian.net/@enncy)
 
